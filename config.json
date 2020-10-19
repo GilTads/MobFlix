@@ -1,0 +1,10 @@
+{
+  "appId": "MY_ID",
+  "masterKey": "MY_MASTER_KEY",
+  "appName": "mobflix",
+  "databaseURI": "mongodb://127.0.0.1:27017/mobflix",
+  "serverURL": "http://localhost:1337/parse",
+  "javascriptKey": "MY_JAVASCRIPT_KEY",
+  "PORT": 1337,
+  "JWT_KEY": "NOT_SECRET"
+}
